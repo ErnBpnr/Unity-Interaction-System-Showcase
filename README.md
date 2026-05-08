@@ -11,7 +11,6 @@ My contribution to this group project focuses on:
 - Gameplay programming
 - Door interaction system
 - Key and lock mechanics
-- Puzzle-related player interactions
 - Basic in-game event systems
 
 ## Project Status
