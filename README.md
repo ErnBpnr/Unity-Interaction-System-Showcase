@@ -1,26 +1,27 @@
-# Unity Interaction System Showcase
+## Final Gameplay Showcase
 
-This repository presents a short gameplay interaction showcase from a group game project currently in development.
+This repository presents a gameplay interaction showcase from a group game project currently in development.
 
-The project focuses on puzzle-based gameplay and player interaction systems.
+The screenshots demonstrate:
 
-## My Contribution
+* environment exploration
+* locked door interaction
+* key-based progression
+* door opening mechanic
+* puzzle-related gameplay flow
 
-My contribution to this group project focuses on:
+My contribution focuses on gameplay programming, script implementation and interaction mechanics.
 
-- Gameplay programming
-- Door interaction system
-- Key and lock mechanics
-- Basic in-game event systems
+## Screenshots
 
-## Project Status
+![Gameplay Screenshot 1](SS1.jpg)
 
-Work in progress.
+![Gameplay Screenshot 2](SS2.jpg)
 
-The game title and story details are not shared because the project is still in development.
+![Gameplay Screenshot 3](SS3.jpg)
 
-## Showcase Video
+## Gameplay Video
 
-Gameplay interaction showcase video:
+The gameplay showcase video is shared on YouTube Shorts:
 
-[interaction_showcase.mp4](interaction_showcase.mp4)
+[https://youtube.com/shorts/BURAYA_YENI_VIDEO_LINKI](https://www.youtube.com/shorts/asu1CIL-R78)
